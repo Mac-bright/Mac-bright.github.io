@@ -1,4 +1,3 @@
 # Testing .gitignore
 
-nothing special just trying
-should not show
+trying a reverse
